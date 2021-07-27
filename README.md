@@ -1,7 +1,7 @@
 - 👋 Hi, I’m pushkar Roy 
 - 👀 I’m interested in learn new things
-- 🌱 I’m currently learning Python and completed c and c++
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Python intermediate,OOPS concept and completed  c and c++
+- 💞️ I’m looking to collaborate on C,C++ and Basics python Project ...
 - 📫 How to reach me ...
 
 <!---
