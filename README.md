@@ -1,3 +1,5 @@
+![IMG_20221004_141204](https://user-images.githubusercontent.com/75408762/193774746-8498bb43-1bb4-41ee-8b53-95401f72a99f.jpg)
+![IMG_20221004_141204](https://user-images.githubusercontent.com/75408762/193774792-fd0dca8e-1a71-4308-ac83-a167374b6792.jpg)
 <h1 align="center">Hi 👋, I'm Pushkar Roy</h1>
 <h3 align="center">Figuring out my passion...</h3>
 
