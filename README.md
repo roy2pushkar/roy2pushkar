@@ -23,6 +23,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roy2pushkar&show_icons=true&locale=en" alt="roy2pushkar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roy2pushkar&" alt="roy2pushkar" /></p>
+https://camo.githubusercontent.com/215dbc084500a595cb8847caf2084b4ff79d20d2c3ac37eb9c88a8a0bbf6d630/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d61736875746f7368383837267468656d653d726561637426686964655f626f726465723d74727565
 
 <h3 align="left">Badges</h3>
 
