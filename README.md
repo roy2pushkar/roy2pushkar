@@ -20,10 +20,9 @@
 <h2 >Skills</h2>
 <h3 >MERN stack Dev</h3>
 <h3 >Competetive Programmer</h3>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roy2pushkar&show_icons=true&locale=en" alt="roy2pushkar" /></p>
 
-<p>my stars</P
-![ashutosh887's Stats](https://github-readme-stats.vercel.app/api?username=roy2pushkar&theme=react&show_icons=true&hide_border=false&count_private=true)
-![ashutosh887's Streak](https://github-readme-streak-stats.herokuapp.com/?user=roy2pushkar&theme=react&hide_border=true)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roy2pushkar&" alt="roy2pushkar" /></p>
 
 <h3 align="left">Badges</h3>
 
