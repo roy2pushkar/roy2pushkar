@@ -23,6 +23,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roy2pushkar&show_icons=true&locale=en" alt="roy2pushkar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roy2pushkar&" alt="roy2pushkar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roy2pushkar&" alt="roy2pushkar" /></p>
 <h3 align="left">Badges</h3>
 
 ![IMG_20221004_141204](https://user-images.githubusercontent.com/75408762/193774792-fd0dca8e-1a71-4308-ac83-a167374b6792.jpg)
