@@ -50,7 +50,7 @@
 
 <p align="center">
   <a href="https://twitter.com/roy2pushkar"><img src="https://img.icons8.com/cute-clipart/64/000000/twitter.png"/></a> 
-  <a href="https://www.linkedin.com/roy2pushkar/"><img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/></a>
+  <a href="https://www.linkedin.com/in/roy2pushkar/"><img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/></a>
   <a href="https://www.instagram.com//"><img src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png"/></a>
   <a href="mailto:roy2000pushkar@gmail.com"><img src="https://img.icons8.com/cute-clipart/64/000000/gmail.png"/></a>
 </p>
