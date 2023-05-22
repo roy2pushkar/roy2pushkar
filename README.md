@@ -86,7 +86,7 @@
 
 <p align="center"><br><br>
   <samp>
-    <i>Thanks for visiting my profile.<br>If you found it interesting, please leave a ⭐️</i> 
+    <i>Thanks for visiting my profile.<br>If you found it interesting, please follow and leave a ⭐️</i> 
   </samp>
 </p>
 
