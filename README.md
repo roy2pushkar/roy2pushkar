@@ -1,6 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Pushkar Roy</h1>
+
 <h2 align="center">Hey Buddy ! Welcome to profile 😇</h2>
 <h3 align="center">Figuring out my passion...</h3>
 
