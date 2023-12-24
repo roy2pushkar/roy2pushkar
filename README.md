@@ -70,7 +70,7 @@
 <table align="center">
 <tr>
 <td>
-<a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ekam-Bitt&layout=compact&theme=radical&hide_border=true" height="200"/></a>
+<a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roy2pushkar&layout=compact&theme=radical&hide_border=true" height="200"/></a>
 </td>
 
 </tr>
